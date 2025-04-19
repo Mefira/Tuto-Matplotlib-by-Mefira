@@ -305,7 +305,7 @@ plt.grid(alpha=0.3)
 plt.show()
 plt.close()
 ```
-![10](image/10.jpg)
+![10](image/10.png)
 
 ## Combiner avec `subplot()`
 
