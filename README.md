@@ -305,7 +305,7 @@ plt.grid(alpha=0.3)
 plt.show()
 plt.close()
 ```
-![10](image/10.jpg)
+![10](image/10.png)
 
 ## Combiner avec `subplot()`
 
@@ -357,7 +357,7 @@ plt.tight_layout()
 plt.show()
 plt.close()
 ```
-![11](image/11.jpg)
+![11](image/11.png)
 
 ## Combiner plusieurs figures avec `subplots`
 
@@ -403,7 +403,7 @@ plt.grid(alpha=0.3)
 plt.show()
 plt.close()
 ```
-![12](image/12.jpg)
+![12](image/12.png)
 
 > 💡 **Observation :** Comme prévu, les athlètes de plus petite taille sont majoritairement des femmes.
 
@@ -437,7 +437,7 @@ plt.tight_layout()  # Ajustement automatique des marges
 plt.show()
 plt.close()
 ```
-![13](image/13.jpg)
+![13](image/13.png)
 
 #### Exemple 2 : Top 10 des villes ayant accueilli le plus d'athlètes
 
@@ -458,7 +458,7 @@ plt.tight_layout()
 plt.show()
 plt.close()
 ```
-![14](image/14.jpg)
+![14](image/14.png)
 
 ### Graphiques à barres groupées
 
@@ -496,7 +496,7 @@ plt.tight_layout()
 plt.show()
 plt.close()
 ```
-![14](image/15.jpg)
+![14](image/15.png)
 
 ### Graphiques à barres empilées
 
@@ -524,7 +524,7 @@ plt.tight_layout()
 plt.show()
 plt.close()
 ```
-![16](image/16.jpg)
+![16](image/16.png)
 
 ### Boîtes à moustaches (Boxplot)
 
@@ -543,7 +543,7 @@ plt.grid(alpha=0.3)
 plt.show()
 plt.close()
 ```
-![17](image/17.jpg)
+![17](image/17.png)
 
 ```python
 # Boxplot de l'âge des athlètes
@@ -559,7 +559,7 @@ plt.grid(alpha=0.3)
 plt.show()
 plt.close()
 ```
-![18](image/18.jpg)
+![18](image/18.png)
 
 > 💡 **Note :** Avec l'option `showfliers=False`, vous pouvez masquer les valeurs extrêmes (outliers).
 
@@ -583,7 +583,7 @@ plt.grid(alpha=0.3)
 plt.show()
 plt.close()
 ```
-![19](image/19.jpg)
+![19](image/19.png)
 
 #### Diagrammes circulaires (Pie Charts)
 
@@ -604,7 +604,7 @@ plt.axis('equal')  # Pour un cercle parfait
 plt.show()
 plt.close()
 ```
-![20](image/20.jpg)
+![20](image/20.png)
 
 ## Conclusion
 
