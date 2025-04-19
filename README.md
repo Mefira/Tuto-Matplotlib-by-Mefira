@@ -20,7 +20,7 @@ Ce notebook vous propose une introduction pratique à **Matplotlib**, la bibliot
 
 La progression pédagogique s'inspire du livre d'*Amandine VELT* intitulé *Python pour la Data Science*, tout en proposant des exemples originaux. Notre objectif n'est pas de faire une analyse approfondie des données, mais plutôt d'explorer les multiples possibilités offertes par Matplotlib pour représenter visuellement vos données.
 
-> 💡 **Vous souhaitez expérimenter ?** Contactez-moi pour recevoir :
+> 💡 **Vous souhaitez expérimenter ?**  [Contactez-moi pour recevoir](https://wa.me/+237695450719?text=Salut%20Mefira%20!%20J'ai%20lu%20ton%20notebook%20sur%20matplotlib.%20Puis-je%20avoir%20le%20fichier%20ipynb.):
 > - [Le notebook complet au format .ipynb](https://wa.me/+237695450719?text=Salut%20Mefira%20!%20J'ai%20lu%20ton%20notebook%20sur%20matplotlib.%20Puis-je%20avoir%20le%20fichier%20ipynb.)
 > - Le dataset des athlètes olympiques de 1886 à 2016 utilisé dans les exemples
 > - [Partagez vos retours](https://wa.me/+237695450719?text=Salut%20Mefira%20!%20J'ai%20lu%20ton%20notebook%20sur%20matplotlib%20et%20j'ai%20quelques%20retours%20à%20te%20faire.)
