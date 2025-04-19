@@ -42,7 +42,7 @@ Ce tutoriel a été conçu pour :
 ## ▶️ Comment utiliser ce notebook
 
 1. Clone ou télécharge ce dépôt  
-2. Ouvre le fichier `Matplotlib_by_Mefira.ipynb` dans Jupyter ou VS Code  
+2. Ouvre le fichier `Tuto-Matplotlib-by-Mefira.ipynb` dans Jupyter ou VS Code  
 3. Suis les cellules dans l’ordre, exécute, modifie, teste !  
 4. Enjoy 😊
 
